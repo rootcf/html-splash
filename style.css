@@ -1,0 +1,30 @@
+html{
+    overflow:hidden;
+    overflow-y: hidden;
+}
+.splash #loading{
+
+
+
+    overflow-y: hidden;
+    overflow-x: hidden;
+    left:46%;
+    right:46%;
+    top:40vh;
+    bottom:40%;
+    width:100px;
+    height:100px;
+    background-color:  white;
+    border-radius: 100px;
+    border-left:4px dodgerblue solid;
+    position: absolute;
+}
+.splash{
+    position: absolute;
+    margin:0;
+    width:100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    height:100%;
+    background-color:  white;
+}
