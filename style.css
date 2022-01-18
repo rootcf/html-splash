@@ -3,28 +3,28 @@ html{
     overflow-y: hidden;
 }
 .splash #loading{
-
-
-
     overflow-y: hidden;
     overflow-x: hidden;
-    left:46%;
-    right:46%;
-    top:40vh;
-    bottom:40%;
-    width:100px;
-    height:100px;
-    background-color:  white;
+    margin-top:3vh;
+    bottom:40vh;
+    width:7vh;
+    height:7vh;
+    margin-left:auto;
+    margin-right: auto;
     border-radius: 100px;
-    border-left:4px dodgerblue solid;
-    position: absolute;
+    border-left:4px white solid;
 }
 .splash{
+    z-index : 5;
     position: absolute;
+    background-color: #ea3535;
     margin:0;
+    top:0%;
+    left:0%;
+    right:0%;
+    bottom:0;
     width:100%;
     overflow-y: hidden;
     overflow-x: hidden;
     height:100%;
-    background-color:  white;
 }
